@@ -1,0 +1,10 @@
+E:\cSharp Location\userSignUp\userSignUp\bin\Debug\userSignUp.exe.config
+E:\cSharp Location\userSignUp\userSignUp\bin\Debug\userSignUp.exe
+E:\cSharp Location\userSignUp\userSignUp\bin\Debug\userSignUp.pdb
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.csprojAssemblyReference.cache
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.Form1.resources
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.Properties.Resources.resources
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.csproj.GenerateResource.cache
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.csproj.CoreCompileInputs.cache
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.exe
+E:\cSharp Location\userSignUp\userSignUp\obj\Debug\userSignUp.pdb
